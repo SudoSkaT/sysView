@@ -75,7 +75,7 @@ It combines **real-time monitoring**, **automatic alerting**, and **safe process
 
 ---
 
- 🚀 Installation
+  Installation
 
 ```bash
 git clone https://github.com/SudoSkaT/sysView.git
